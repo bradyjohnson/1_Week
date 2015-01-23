@@ -1,0 +1,113 @@
+
+.page {
+	width: 600px;
+	height: 820px;
+	margin: 0 auto;
+	background: #D8D8D8;
+	position: absolute;
+}
+.container1 {
+	background: #FFFFFF;
+	width: 85%;
+	height: 30%;
+	margin-left: 7.5%;
+	margin-top: 4%;
+	position: relative;
+}
+.text1 {
+	width: 90%;
+    height: 40%;
+    font-size: smaller;
+   	font-family: sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    top: 0;
+    left: 0;
+    margin: 5%;
+    position: absolute;
+}
+.button {
+	width: 90%;
+    height: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 0;
+    left: 0;
+    margin: 5%;
+    position: absolute;
+    display: flex;
+}
+.button1 {
+	background: #D0021B;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 250%;
+	font-size: large;
+	width: 25%;
+	height: 100%;
+}
+.button2 {
+	background: #4A90E2;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 250%;
+	font-size: large;
+	width: 25%;
+	height: 100%;
+    margin-left: 3%;
+}
+.container2 {
+	background: #FFFFFF;
+	width: 85%;
+	height: 54%;
+	margin-left: 7.5%;
+	margin-top: 5%;
+	position: absolute;
+}
+.picture {
+	background-image: url("https://scontent-a-lax.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10929549_562144497253683_3021409426934360907_n.jpg?oh=5ed706d1016771b91d0354087178ead1&oe=5521A897");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 90%;
+    height: 60%;
+    margin: 4.5%
+}
+.text2 {
+	width: 90%;
+    height: 20%;
+    font-size: smaller;
+   	font-family: sans-serif;
+   	margin-left: 4.5%;
+}
+
+.container3 {
+	background: #4A4A4A;
+	width: 100%;
+	height: 6%;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+	display: flex;
+}
+.button3 {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 285%;
+	font-size: initial;
+	width: 15%;
+	height: 100%;
+	margin-left: 65%;
+}
+.button4 {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 285%;
+	font-size: initial;
+	width: 15%;
+	height: 100%;
+}
